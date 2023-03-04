@@ -4,9 +4,9 @@ This dataset include tweets  collected on 3 topics:
 
 | Dataset | Topic | Number of tweets |
 |---|---|---|
-| **uselection.txt** | Donald Trump | 81,028,363 |
-| **mask.txt** | Wearing mask | 14,834,164 |
-| **racial.txt** | Racial equality | 10,717,712 |
+| **uselection.txt.zip** | Donald Trump | 81,028,363 |
+| **mask.txt.zip** | Wearing mask | 14,834,164 |
+| **racial.txt.zip** | Racial equality | 10,717,712 |
 
 We provide the tweet id for all tweets collected, below are the descriptions about each topic:
 - **Donald trump**: data is collected for 1 month period between 3rd November 2020 to 2nd December 2020, to capture users' stance towards Trump after casting votes for the US Election 2020.
