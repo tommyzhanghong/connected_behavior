@@ -21,7 +21,7 @@ Data is collected using key words below:
 Wearing mask dataset is collected by using COVID-19 keywords and the word "mask"
 
 Please cite this paper when you use this data:
-
+```
 @inproceedings{zhang2023wearing,
   title={Wearing Masks Implies Refuting Trump?: Towards Target-specific User Stance Prediction across Events in COVID-19 and US Election 2020},
   author={Zhang, Hong and Kwak, Haewoon and Gao, Wei and An, Jisun},
@@ -29,3 +29,4 @@ Please cite this paper when you use this data:
   pages={..},
   year={2023}
 }
+```
