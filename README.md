@@ -4,8 +4,7 @@ This dataset include tweets  collected on 3 topics:
 
 | Dataset | Topic | Number of tweets |
 |---|---|---|
-| **uselection.txt.zip** <br>
-dadda| Donald Trump | 81,028,363 |
+| **uselection.txt.zip** <br> test | Donald Trump | 81,028,363 |
 | **mask.txt.zip** | Wearing mask | 14,834,164 |
 | **racial.txt.zip** | Racial equality | 10,717,712 |
 
